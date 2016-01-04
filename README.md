@@ -1,1 +1,1 @@
-# Chess.Mini
+# Chess.Mini.Java
