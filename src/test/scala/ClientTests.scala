@@ -1,7 +1,7 @@
 import org.scalatest.FunSuite
 
-class ClientTest extends FunSuite {
+class EngineTest extends FunSuite {
   test("multiply returns the correct result") {
-    assert(Client.multiply(3) === 27)
+    assert(Engine.multiply(3) === 27)
   }
 }

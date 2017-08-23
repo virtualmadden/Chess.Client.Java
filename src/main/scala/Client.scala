@@ -1,4 +1,4 @@
-object Client extends App {
+object Engine extends App {
   def calculate() = {
     multiply(3)
   }

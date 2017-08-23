@@ -1,1 +1,1 @@
-# Chess.Mini.Java
+# Chess.Engine.Java

@@ -1,4 +1,4 @@
-name := "Chess.Client"
+name := "Chess.Engine.Java"
 
 version := "0.1"
 
